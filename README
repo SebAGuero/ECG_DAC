@@ -3,3 +3,5 @@
 las ondas fueron creadas a partir de info bajada de phisyonet.org.
 
 La idea de este codigo en c++ es mostrar por el DAC del ESP32 el complejo P-QRS-T de cada patologia cardiaca.
+
+Los comandos son enviados por el terminal serial de Arduino IDE.
